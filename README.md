@@ -1,11 +1,16 @@
 # Hi, I'm Beatriz! 👋
-## Web Developer | AI Enthusiast | Problem Solver
-I'm a web developer with a background in Pharmacy and a passion for technology. After spending several years working in healthcare, I transitioned into coding to solve real-world problems through digital solutions. I love blending creativity with functionality and always seek to learn new skills and improve my projects, and after diving into web development, I now focus on building apps that combine creativity and functionality.
+## Full Stack Developer | Ruby on Rails & React
+I'm a full stack web developer focused on building real-world applications using Ruby on Rails and React.
+I have experience developing complete systems, from database modeling to implementing business rules and front-end interfaces. My projects include e-commerce platforms with dynamic pricing, multi-user systems with authentication, and applications that integrate external APIs.
+I enjoy working on practical problems, especially those involving automation, data handling, and structured application logic.
 
 🌍 I'm based in Rio de Janeiro, Brazil  
 🖥️ See my portfolio at https://github.com/bialopesm  
 ✉️ You can contact me at bialmachado@gmail.com  
-🚀 I'm currently working on EasyKitchen app - https://github.com/bialopesm/EasyKitchen  
+🚀 Projects:
+  - PartyControll – event and contract management system
+  - SmartShop – e-commerce with dynamic pricing logic
+  - CARF Monitor – real-time news monitoring and automation
 🧠 I'm learning more about AI, React, Ruby on Rails and I’m excited to continue building impactful applications.  
 🤝 I’m open to collaborating on projects that solve real problems and where I can contribute and keep learning.
 
@@ -13,7 +18,6 @@ I'm a web developer with a background in Pharmacy and a passion for technology. 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://guides.rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
 <a href="https://react.dev/learn" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="https://platform.openai.com/docs/overview" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
