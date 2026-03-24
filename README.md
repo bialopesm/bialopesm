@@ -13,6 +13,7 @@ I enjoy working on practical problems, especially those involving automation, da
   - CARF Monitor – real-time news monitoring and automation
 
 🧠 Currently improving my skills in AI, React and Ruby on Rails, with focus on building real-world applications.
+
 🤝 I’m open to collaborating on projects that solve real problems and where I can contribute and keep learning.
 
 ## Skills
