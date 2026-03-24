@@ -11,7 +11,8 @@ I enjoy working on practical problems, especially those involving automation, da
   - PartyControll – event and contract management system
   - SmartShop – e-commerce with dynamic pricing logic
   - CARF Monitor – real-time news monitoring and automation
-🧠 I'm learning more about AI, React, Ruby on Rails and I’m excited to continue building impactful applications.  
+
+🧠 Currently improving my skills in AI, React and Ruby on Rails, with focus on building real-world applications.
 🤝 I’m open to collaborating on projects that solve real problems and where I can contribute and keep learning.
 
 ## Skills
